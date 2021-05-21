@@ -1,32 +1,36 @@
 {
-  "name": "spryker-feature/marketplace-product-offer",
-  "description": "Marketplace Product Offer [feature]",
-  "type": "metapackage",
-  "license": "proprietary",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "require": {
-    "php": ">=7.3",
-    "spryker-shop/merchant-product-offer-widget": "^0.11.0",
-    "spryker/merchant-product-offer": "^0.6.0",
-    "spryker/merchant-product-offer-data-import": "^0.8.0",
-    "spryker/merchant-product-offer-gui": "^0.1.0",
-    "spryker/merchant-product-offer-search": "^0.4.0",
-    "spryker/merchant-product-offer-storage": "^0.11.0",
-    "spryker/product-offer": "^0.5.0",
-    "spryker/product-offer-gui": "^0.1.0",
-    "spryker/product-offer-sales": "^0.1.0",
-    "spryker/product-offer-validity": "^0.2.0",
-    "spryker/product-offer-validity-data-import": "^0.2.0",
-    "spryker/product-offer-validity-gui": "^0.1.0"
-  },
-  "extra": {
-    "branch-alias": {
-      "dev-master": "202009.x-dev"
+    "name": "spryker-feature/marketplace-product-offer",
+    "description": "Marketplace Product Offer [feature]",
+    "type": "metapackage",
+    "license": "proprietary",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=7.3",
+        "spryker-shop/merchant-product-offer-widget": "^0.14.0",
+        "spryker/merchant-product-offer": "^0.8.0",
+        "spryker/merchant-product-offer-data-import": "^0.10.0",
+        "spryker/merchant-product-offer-gui": "^0.2.0",
+        "spryker/merchant-product-offer-search": "^0.5.0",
+        "spryker/merchant-product-offer-storage": "^0.13.0",
+        "spryker/product-offer": "^0.7.0",
+        "spryker/product-offer-availability": "^0.7.0",
+        "spryker/product-offer-availability-storage": "^0.8.0",
+        "spryker/product-offer-gui": "^0.2.0",
+        "spryker/product-offer-stock": "^0.5.0",
+        "spryker/product-offer-stock-data-import": "^0.6.0",
+        "spryker/product-offer-stock-gui": "^0.2.0",
+        "spryker/product-offer-validity": "^0.3.0",
+        "spryker/product-offer-validity-data-import": "^0.4.0",
+        "spryker/product-offer-validity-gui": "^0.1.0"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "202107.x-dev"
+        }
+    },
+    "suggest": {
+        "spryker-feature/marketplace-merchant": "Recommended feature dependency.",
+        "spryker-feature/product": "Recommended feature dependency."
     }
-  },
-  "suggest": {
-    "spryker-feature/marketplace-merchant": "Recommended feature dependency.",
-    "spryker-feature/product": "Recommended feature dependency."
-  }
 }
