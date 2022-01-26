@@ -6,8 +6,9 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "php": ">=7.3",
+        "php": ">=7.4",
         "spryker-shop/merchant-product-offer-widget": "^1.0.0",
+        "spryker-shop/product-offer-widget": "^0.1.0",
         "spryker/merchant-product-offer": "^1.0.0",
         "spryker/merchant-product-offer-data-import": "^0.11.0",
         "spryker/merchant-product-offer-gui": "^1.0.0",
