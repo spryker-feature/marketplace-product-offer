@@ -19,4 +19,5 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [MerchantProductOfferStorageExtension ^1.0.0](https://github.com/spryker/merchant-product-offer-storage-extension) (Extension)
 - [ProductOfferExtension ^1.0.0](https://github.com/spryker/product-offer-extension) (Extension)
 - [ProductOfferGuiExtension ^1.0.0](https://github.com/spryker/product-offer-gui-extension) (Extension)
+- [ProductOffersRestApi ^0.1.0](https://github.com/spryker/product-offers-rest-api) (Glue)
 - [ProductOfferStorageExtension ^1.0.0](https://github.com/spryker/product-offer-storage-extension) (Extension)
