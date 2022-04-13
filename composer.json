@@ -9,7 +9,7 @@
         "php": ">=7.4",
         "spryker-shop/merchant-product-offer-widget": "^2.1.0",
         "spryker-shop/product-offer-widget": "^1.0.0",
-        "spryker/merchant-product-offer": "^1.0.0",
+        "spryker/merchant-product-offer": "^1.4.0",
         "spryker/merchant-product-offer-data-import": "^1.0.0",
         "spryker/merchant-product-offer-gui": "^1.0.0",
         "spryker/merchant-product-offer-search": "^1.0.0",
