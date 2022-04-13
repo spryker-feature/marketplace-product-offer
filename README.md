@@ -16,7 +16,7 @@ If you don't include the feature dependencies, make sure you use the respective 
 
 ## Optional modules
 - [MerchantProductOffersRestApi ^2.0.0](https://github.com/spryker/merchant-product-offers-rest-api) (Glue)
-- [MerchantProductOfferStorageExtension ^1.0.0](https://github.com/spryker/merchant-product-offer-storage-extension) (Extension)
+- [MerchantProductOfferStorageExtension ^1.1.0](https://github.com/spryker/merchant-product-offer-storage-extension) (Extension)
 - [Shop.MerchantProductOfferWidgetExtension ^1.0.0](https://github.com/spryker-shop/merchant-product-offer-widget-extension) (Extension)
 - [ProductOfferExtension ^1.0.0](https://github.com/spryker/product-offer-extension) (Extension)
 - [ProductOfferGuiExtension ^1.0.0](https://github.com/spryker/product-offer-gui-extension) (Extension)
