@@ -15,10 +15,10 @@ composer require spryker-feature/marketplace-product-offer
 If you don't include the feature dependencies, make sure you use the respective modules instead.
 
 ## Optional modules
-- [MerchantProductOffersRestApi ^2.0.0](https://github.com/spryker/merchant-product-offers-rest-api) (Glue)
+- [MerchantProductOffersRestApi ^2.0.0](https://github.com/spryker/merchant-product-offers-rest-api) (Legacy Glue)
 - [MerchantProductOfferStorageExtension ^1.1.0](https://github.com/spryker/merchant-product-offer-storage-extension) (Extension)
 - [Shop.MerchantProductOfferWidgetExtension ^1.0.0](https://github.com/spryker-shop/merchant-product-offer-widget-extension) (Extension)
 - [ProductOfferExtension ^1.0.0](https://github.com/spryker/product-offer-extension) (Extension)
 - [ProductOfferGuiExtension ^1.0.0](https://github.com/spryker/product-offer-gui-extension) (Extension)
-- [ProductOffersRestApi ^1.0.0](https://github.com/spryker/product-offers-rest-api) (Glue)
+- [ProductOffersRestApi ^1.0.0](https://github.com/spryker/product-offers-rest-api) (Legacy Glue)
 - [ProductOfferStorageExtension ^1.0.0](https://github.com/spryker/product-offer-storage-extension) (Extension)
