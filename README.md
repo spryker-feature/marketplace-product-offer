@@ -2,6 +2,8 @@
 
 Merchant Offer is a new entity that allows a Merchant to sell the Product on the Marketplace. If the product already exists in the system and Merchant wants to sell it, s/he creates a Merchant Offer for this product. Merchant Offer is based on the concrete product and might contain such details as price, stock, status, etc.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/offer-management/202307.0/marketplace/marketplace-product-offer-feature-overview.html)
+
 ## Installation
 
 ```
