@@ -23,4 +23,4 @@ If you don't include the feature dependencies, make sure you use the respective 
 - [ProductOfferExtension ^1.0.0](https://github.com/spryker/product-offer-extension) (Extension)
 - [ProductOfferGuiExtension ^1.0.0](https://github.com/spryker/product-offer-gui-extension) (Extension)
 - [ProductOffersRestApi ^1.1.0](https://github.com/spryker/product-offers-rest-api) (Legacy Glue)
-- [ProductOfferStorageExtension ^1.1.0](https://github.com/spryker/product-offer-storage-extension) (Extension)
+- [ProductOfferStorageExtension ^1.2.0](https://github.com/spryker/product-offer-storage-extension) (Extension)
