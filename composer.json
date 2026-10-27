@@ -14,9 +14,9 @@
         "spryker/merchant-product-offer-gui": "^2.1.0",
         "spryker/merchant-product-offer-search": "^1.9.0",
         "spryker/merchant-product-offer-storage": "^2.6.0",
-        "spryker/product": "^6.56.0",
+        "spryker/product": "^6.57.0",
         "spryker/product-offer": "^1.18.0",
-        "spryker/product-offer-gui": "^2.2.0",
+        "spryker/product-offer-gui": "^2.3.0",
         "spryker/product-offer-storage": "^1.12.0",
         "spryker/product-offer-validity": "^1.4.0",
         "spryker/product-offer-validity-data-import": "^0.5.0",
@@ -24,7 +24,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202608.x-dev"
+            "dev-master": "202610.x-dev"
         }
     },
     "suggest": {
